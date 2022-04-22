@@ -1,0 +1,15 @@
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.exe
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.deps.json
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.runtimeconfig.json
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.dll
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\bin\Debug\net6.0\AtividadePratica.pdb
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.csproj.AssemblyReference.cache
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.AssemblyInfoInputs.cache
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.AssemblyInfo.cs
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.csproj.CoreCompileInputs.cache
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.dll
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\refint\AtividadePratica.dll
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.pdb
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\AtividadePratica.genruntimeconfig.cache
+C:\Users\Natani\source\repos\AtividadePratica\AtividadePratica\obj\Debug\net6.0\ref\AtividadePratica.dll
