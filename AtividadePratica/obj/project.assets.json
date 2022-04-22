@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natani\\source\\repos\\AtividadePratica\\AtividadePratica\\AtividadePratica.csproj",
+      "projectUniqueName": "C:\\Users\\Natani\\OneDrive - Fatec Centro Paula Souza\\Documents\\Desktop\\exercicios-ads\\exercicios-csharp\\conversor-de-metrica-de-tempo\\AtividadePratica\\AtividadePratica.csproj",
       "projectName": "AtividadePratica",
-      "projectPath": "C:\\Users\\Natani\\source\\repos\\AtividadePratica\\AtividadePratica\\AtividadePratica.csproj",
+      "projectPath": "C:\\Users\\Natani\\OneDrive - Fatec Centro Paula Souza\\Documents\\Desktop\\exercicios-ads\\exercicios-csharp\\conversor-de-metrica-de-tempo\\AtividadePratica\\AtividadePratica.csproj",
       "packagesPath": "C:\\Users\\Natani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Natani\\source\\repos\\AtividadePratica\\AtividadePratica\\obj\\",
+      "outputPath": "C:\\Users\\Natani\\OneDrive - Fatec Centro Paula Souza\\Documents\\Desktop\\exercicios-ads\\exercicios-csharp\\conversor-de-metrica-de-tempo\\AtividadePratica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Natani\\AppData\\Roaming\\NuGet\\NuGet.Config",
